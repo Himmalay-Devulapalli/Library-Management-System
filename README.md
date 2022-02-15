@@ -15,4 +15,4 @@
  
 
 # Splash Screen
-The applications starts with a splash screen of application and organization name
+![alt text](https://github.com/Himmalay-Devulapalli/Library-Management-System/images/splash_screen.png )
