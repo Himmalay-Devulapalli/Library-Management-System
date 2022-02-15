@@ -15,4 +15,4 @@
  
 
 # Splash Screen
-![alt text](https://github.com/Himmalay-Devulapalli/Library-Management-System/images/splash_screen.png )
+![alt text](https://github.com/Himmalay-Devulapalli/Library-Management-System/images/splash_screen.png)
