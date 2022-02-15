@@ -36,3 +36,7 @@
 
 # Send Delay Mails
 ![alt text](https://github.com/Himmalay-Devulapalli/Library-Management-System/blob/main/images/mails.png)
+
+# Settings
+![alt text](https://github.com/Himmalay-Devulapalli/Library-Management-System/blob/main/images/settings.png)
+
