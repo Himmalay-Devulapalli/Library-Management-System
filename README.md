@@ -20,6 +20,7 @@ The application starts with a splash screen that displays about 10 seconds
 
 # Main Menu
 This is the main window of the library management system where the access menu is displayed.
+
 ![alt text](https://github.com/Himmalay-Devulapalli/Library-Management-System/blob/main/images/Main_menu.png)
 
 # QR Code Scan 
@@ -36,6 +37,10 @@ ensuring the proper useage of application.
 
 
 # Return Book
+
+The return book window provides the features for receiving the book back from student. The student ID must be scanned in order to fetch the details from database.\
+Details like issued date, return date, renew count, overdue will be displayed. Receive Book button action will reflect in the backend by updating the status of the book.\
+
 ![alt text](https://github.com/Himmalay-Devulapalli/Library-Management-System/blob/main/images/return_book.png)
 
 # Renew Book
@@ -49,6 +54,7 @@ ensuring the proper useage of application.
 
 # Settings
 ![alt text](https://github.com/Himmalay-Devulapalli/Library-Management-System/blob/main/images/settings.png)
+
 ![alt text](https://github.com/Himmalay-Devulapalli/Library-Management-System/blob/main/images/settings2.png)
 
 
