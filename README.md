@@ -46,7 +46,7 @@ Details like issued date, return date, renew count, overdue will be displayed. R
 # Renew Book
 The renew book window gives the inteface to renew the book. This will work only if the Student id is scanned. A book can only be renewed once. warning will raisedif the book is tried to renew twice.
 
-[alt text](https://github.com/Himmalay-Devulapalli/Library-Management-System/blob/main/images/renew_book.png)
+![alt text](https://github.com/Himmalay-Devulapalli/Library-Management-System/blob/main/images/renew_book.png)
 
 # Student History
 Student History window is designed to view the history of a student. The student id can be entered and all the previous operations of the student can be viewed in a tabular form.
