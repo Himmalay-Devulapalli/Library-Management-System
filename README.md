@@ -9,21 +9,31 @@
  Issue Book\
  Return Book\
  Renew Book\
- Studen History\
+ Student History\
  Notify Delay\
  Admin Access
  
 
 # Splash Screen
+The application starts with a splash screen that displays about 10 seconds
 ![alt text](https://github.com/Himmalay-Devulapalli/Library-Management-System/blob/main/images/splash_screen.png)
 
 # Main Menu
+This is the main window of the library management system where the access menu is displayed.
 ![alt text](https://github.com/Himmalay-Devulapalli/Library-Management-System/blob/main/images/Main_menu.png)
 
 # QR Code Scan 
 
+
 # Issue Book
 ![alt text](https://github.com/Himmalay-Devulapalli/Library-Management-System/blob/main/images/issue_book.png)
+
+The Issue Book window has the entry options for issuing a book. The scan button will scan the qr code from student id card and student id is displayed automtically 
+ensuring the proper useage of application.
+
+![alt text](https://github.com/Himmalay-Devulapalli/Library-Management-System/blob/main/images/issue_book2.png)
+
+
 
 # Return Book
 ![alt text](https://github.com/Himmalay-Devulapalli/Library-Management-System/blob/main/images/return_book.png)
