@@ -39,4 +39,6 @@
 
 # Settings
 ![alt text](https://github.com/Himmalay-Devulapalli/Library-Management-System/blob/main/images/settings.png)
+![alt text](https://github.com/Himmalay-Devulapalli/Library-Management-System/blob/main/images/settings2.png)
+
 
