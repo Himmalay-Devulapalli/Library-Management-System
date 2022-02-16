@@ -24,7 +24,7 @@ This is the main window of the library management system where the access menu i
 ![alt text](https://github.com/Himmalay-Devulapalli/Library-Management-System/blob/main/images/Main_menu.png)
 
 # QR Code Scan 
-
+The qr code on the student id card encoded with student id is scanned. By uinng opencv and QRCodeDetector function the camera captures the images continuously ultil the qr code is detected. Text from the qr code is displayed on the window.
 
 # Issue Book
 ![alt text](https://github.com/Himmalay-Devulapalli/Library-Management-System/blob/main/images/issue_book.png)
